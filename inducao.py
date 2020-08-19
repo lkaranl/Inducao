@@ -1,5 +1,5 @@
 #!/usr/bin/env python3.8
-#####	NAME:				ALGORITMO NEWTON
+#####	NAME:				Indução Matemática
 #####	VERSION:			0.3
 #####	DESCRIPTION:			Indução Matemática  
 #####	DATE OF CREATION:		19/08/2020
