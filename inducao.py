@@ -28,8 +28,6 @@ def inducao(n):
     n = ((n*(n+1))/2)
     return int(n)
 
-
-
 if __name__ == "__main__":
     inicio = time.time()
     print(somar_elementos(vetor)) 
